@@ -7,4 +7,8 @@ export const projetosBi = {
     title: "Avaliações de Atendimento",
     src: "https://app.powerbi.com/view?r=eyJrIjoiMmFkNWQ3MmQtZmQ2Ni00ZjY5LThmZGMtN2JlOGZiYzM0NGJhIiwidCI6IjllM2MzMzRjLWY2MmEtNDA4NC04ZTYyLTMyMDZhNDBlMWY2MyJ9",
   },
+  implantacao: {
+    title: "Lojas em implantação",
+    src: "https://app.powerbi.com/view?r=eyJrIjoiNGRmMDQ1OTAtZTVmYS00ZGYzLTkwOWQtZjczOTc3NGNlZDY3IiwidCI6IjllM2MzMzRjLWY2MmEtNDA4NC04ZTYyLTMyMDZhNDBlMWY2MyJ9",
+  },
 };
